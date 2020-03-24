@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Geen zin om taken te maken? Veel plezier xx
-// @updateURL    https://raw.githubusercontent.com/DylanDec/diddit-complete/master/diddit.js
-// @downloadURL  https://raw.githubusercontent.com/DylanDec/diddit-complete/master/diddit.js
+// @updateURL    https://github.com/DylanDec/diddit-complete/raw/master/diddit.user.js
+// @downloadURL  https://github.com/DylanDec/diddit-complete/raw/master/diddit.user.js
 // @author       dylandec
 // @match        https://www.diddit.be/*
 // @grant        https://www.diddit.be/*
