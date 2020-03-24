@@ -3,7 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Geen zin om taken te maken? Veel plezier xx
-// @author       krijg corona
+// @updateURL    https://raw.githubusercontent.com/DylanDec/diddit-complete/master/diddit.js
+// @downloadURL  https://raw.githubusercontent.com/DylanDec/diddit-complete/master/diddit.js
+// @author       dylandec
 // @match        https://www.diddit.be/*
 // @grant        https://www.diddit.be/*
 // ==/UserScript==
