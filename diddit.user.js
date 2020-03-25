@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Diddit Taken Volledig
-// @namespace    http://tampermonkey.net/
+// @name         Diddit cheats
+// @namespace    https://github.com/DylanDec/
 // @version      2.2
 // @description  Geen zin om taken te maken? Veel plezier xx
 // @updateURL    https://github.com/DylanDec/diddit-complete/raw/master/diddit.user.js
