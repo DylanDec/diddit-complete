@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Diddit cheats
 // @namespace    https://github.com/DylanDec/
-// @version      2.2
+// @version      2.3
 // @description  Geen zin om taken te maken? Veel plezier xx
 // @updateURL    https://github.com/DylanDec/diddit-complete/raw/master/diddit.user.js
 // @downloadURL  https://github.com/DylanDec/diddit-complete/raw/master/diddit.user.js
